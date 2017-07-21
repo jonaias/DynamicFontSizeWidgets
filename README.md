@@ -7,11 +7,11 @@ Implemented dynamic font size according to defined widget size and accounts for 
 # Components
 
 ## DynamicFontSizeLabel
- - Implementes setTextColor (Altought it overwrites stylesheets).
- - Implements click signal
+ - Added setTextColor (Altought it overwrites stylesheets).
+ - Added click signal
  
 ## DynamicFontSizePushButton
- - Implementes setTextColor (Altought it overwrites stylesheets).
+ - Added setTextColor (Altought it overwrites stylesheets).
  
 # How to use
 
@@ -25,7 +25,7 @@ Open example/ project to see in action. A box frame is set in example to make it
 
 # TODO
 
- - More examples
+ - Add/Improve examples
  - Self tests?
  - Improve size fitting algorithm
  - Add other components
@@ -43,4 +43,4 @@ Other useful link
  
  # History
  
- DynamicFontSizeLabel initial version was developed inside Exacta Balanças which gently opened code as retribution to great work done by many Open Source projects.
+ DynamicFontSizeLabel initial version was developed inside Exacta Balanças ( @exactabal ) which gently opened code as retribution to great work done by many Open Source projects.

@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>894</width>
-    <height>172</height>
+    <height>216</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -84,7 +84,8 @@
        </sizepolicy>
       </property>
       <property name="text">
-       <string>Expanding DynamicFontSizePushButton</string>
+       <string>Expanding DynamicFontSizePushButton
+with new line</string>
       </property>
      </widget>
     </item>
@@ -94,7 +95,11 @@
        <enum>QFrame::Box</enum>
       </property>
       <property name="text">
-       <string>Prefered DynamicFontSizeLabel</string>
+       <string>Prefered DynamicFontSizeLabel 
+with new line</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
       </property>
      </widget>
     </item>
